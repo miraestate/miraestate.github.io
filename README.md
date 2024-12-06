@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>WE ARE SCAM COMPANY</title>
     <meta charset="utf-8">
 </head>
 <body>
@@ -24,6 +23,7 @@
 <br>3. **Hidden fees:** The agency promised low prices, but customers faced unexpected extra fees when they made a deal.
 <br>4. **False promises:** Clients were promised quick paperwork and favorable terms, but the process was delayed and the conditions were much worse in reality.
 <br>5. Refusing to Refund Funds: When customers attempted to return their funds after realizing they had been misled, the agency declined, citing "unforeseen circumstances."
+<br> +971 52 270 3372 ; +971 52 216 9763
 </div>
     <div> </div>
 </body>
